@@ -7,6 +7,6 @@ Updates my twitter bio with the days since my employer has scolded me about my t
 
 `cd update-bio`
 
-`python scriptt.py`
+`python script.py`
 
 
